@@ -1,0 +1,34 @@
+body{
+  margin: 0px;
+ font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+  background-color: #AB2A19;
+  width:100%;
+  padding:5px;
+  display:flex;
+  justify-content:space-between;
+}
+
+.navTitle{
+  width:23%;
+  margin:5px 0px 0px 150px;
+  font-size:40px;
+  padding: 5px;
+  color:white;
+  display:flex;
+  justify-content: space-between;
+}
+
+.container {
+  width:55%;
+  margin:0 auto;
+}
+
+.shelf {
+  text-align:center;
+  background-color: #D34735;
+  margin:20px;
+  font-size: 40px;
+  color: white;
+}

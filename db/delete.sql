@@ -1,0 +1,1 @@
+DELETE bins WHERE bins_id = $1

@@ -1,0 +1,1 @@
+UPDATE bins SET description =$2 WHERE bins_id=$1
